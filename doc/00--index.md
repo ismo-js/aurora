@@ -34,7 +34,9 @@
     *Language*
     ∷ mainly **TypeScript**
 
+
 ## :hash: Status
+
 Initialization phase. Development focus currently on aurora`@`sigma.
 
 ~~Also see [the `npm` project `@`ismo](https://www.npmjs.com/org/ismo).~~—not much to see
